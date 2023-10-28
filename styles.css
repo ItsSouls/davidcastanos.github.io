@@ -1,0 +1,80 @@
+/* Estilo para el footer pegajoso */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    flex: 1;
+}
+
+.footer {
+    text-align: center;
+    padding: 1em 0;
+}
+
+/* Estilo para los cards de los repositorios */
+.card {
+    margin: 1em 0;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.navbar {
+    background-color: #1a3b5d; /* Color predeterminado igual al footer */
+}
+
+
+body.dark-mode .navbar {
+    background-color: #333; /* Color en modo oscuro igual al footer */
+}
+
+body.dark-mode .footer {
+    background-color: #333;
+}
+
+body.dark-mode .card {
+    background-color: #333;
+    color: #e0e0e0;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #555;
+    border-color: #555;
+}
+
+#darkModeToggle {
+    border: 2px solid white;
+}
+
+body.dark-mode #darkModeToggle {
+    background-color: #e0e0e0;
+    color: #121212;
+    border-color: #121212;
+}
+
+#darkModeToggle {
+    border: 2px solid #1a3b5d; /* Borde azul oscuro en modo claro */
+    color: #1a3b5d; /* Texto azul oscuro en modo claro */
+}
+
+body.dark-mode #darkModeToggle {
+    background-color: #e0e0e0;
+    color: #121212;
+    border-color: #121212;
+}
