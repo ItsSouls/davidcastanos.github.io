@@ -1,6 +1,4 @@
-# 🌟 Antonio Venzalá Serrano's GitHub Pages 🌟
-
-![Banner](./assets/banner.png)
+# 🌟 David Castaños GitHub Pages 🌟
 
 ## 📚 Índice 📚
 
@@ -12,7 +10,7 @@
 
 ## 🎉 Introducción
 
-Bienvenido a mi GitHub Pages 🌐. Aquí encontrarás proyectos personales 👨‍💻, ejemplos de código 📝 y otros recursos útiles 🛠. Espero que lo encuentres interesante!
+Bienvenido a mi GitHub Pages 🌐. Aquí encontrarás todos mis proyectos personales 👨‍💻y en grupo📝 y otros recursos útiles 🛠. Espero que lo encuentres interesante!
 
 ## ✨ Características
 
@@ -37,4 +35,4 @@ Bienvenido a mi GitHub Pages 🌐. Aquí encontrarás proyectos personales 👨�
 
 ## 📜 Licencia
 
-🔒 Todos los derechos reservados, 2023 Venzalá.
+🔒 Todos los derechos reservados, 2023 David Castaños.
